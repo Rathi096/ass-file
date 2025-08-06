@@ -8,5 +8,8 @@ Style: Default,Arial,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.00,0:00:03.00,Default,,0,0,0,,This is a test.
-Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,Second line of text.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,I will unite our country not with words, but with action.
+Dialogue: 0,0:00:05.00,0:00:10.00,Default,,0,0,0,,I will work day in and day out to deliver for you.
+Dialogue: 0,0:00:10.00,0:00:15.00,Default,,0,0,0,,This government will have integrity, professionalism and accountability at every level.
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,Trust is earned. And I will earn yours.
+Dialogue: 0,0:00:20.00,0:00:25.00,Default,,0,0,0,,Good morning. I have just been to Buckingham palace and accepted His Majesty the King's invitation.
